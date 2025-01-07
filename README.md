@@ -1,4 +1,4 @@
-# QUIZZer by TRIVIA api
+# QUIZZER by TRIVIA api
 
 A new Flutter project.
 
