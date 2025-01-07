@@ -1,4 +1,4 @@
-# win_by_quiz
+# QUIZZer by TRIVIA api
 
 A new Flutter project.
 
